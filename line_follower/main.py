@@ -1,5 +1,6 @@
 # Smart Cutebot + Pico:ed by Elecfreaks - My Line Follower example 
 # by @Cyb3rn0id on Hackster.io
+# https://www.hackster.io/CyB3rn0id/getting-started-with-the-pico-ed-smart-cutebot-a33334
 
 from cutebot import * # import all functions from cutebot library
 import time
